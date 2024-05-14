@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|c:\\users\\roesp\\source\\repos\\modelosdeparcial-practicos-pw3\\serviciosfreelance.web3\\serviciosfreelance.web3\\serviciosfreelance.web3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\serviciosfreelance.web3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|c:\\users\\roesp\\source\\repos\\modelosdeparcial-practicos-pw3\\serviciosfreelance.web3\\serviciosfreelance.web3\\views\\principal\\bienvenidosartificiales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\views\\principal\\bienvenidosartificiales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|c:\\users\\roesp\\source\\repos\\modelosdeparcial-practicos-pw3\\serviciosfreelance.web3\\serviciosfreelance.web3\\controllers\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\controllers\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\serviciosfreelance.web3\\views\\principal\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\views\\principal\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\serviciosfreelance.web3\\models\\freelancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\models\\freelancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\serviciosfreelance.web3\\views\\principal\\calcularserviciosfreelance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\views\\principal\\calcularserviciosfreelance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20C4413-D10F-40B0-A5E4-1442F095CA2F}|ServiciosFreelance.Servicio\\ServiciosFreelance.Servicio.csproj|C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\serviciosfreelance.servicio\\freelanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20C4413-D10F-40B0-A5E4-1442F095CA2F}|ServiciosFreelance.Servicio\\ServiciosFreelance.Servicio.csproj|solutionrelative:serviciosfreelance.servicio\\freelanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\serviciosfreelance.web3\\views\\shared\\_servicioslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9173B7CD-BE2B-4710-B765-F21D760057E0}|ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj|solutionrelative:serviciosfreelance.web3\\views\\shared\\_servicioslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Controllers\\Principal.cs",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\Controllers\\Principal.cs",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Controllers\\Principal.cs",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\Controllers\\Principal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:17:32.555Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BienvenidosArtificiales.cshtml",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Principal\\BienvenidosArtificiales.cshtml",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\Views\\Principal\\BienvenidosArtificiales.cshtml",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Principal\\BienvenidosArtificiales.cshtml",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\Views\\Principal\\BienvenidosArtificiales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T23:04:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiciosFreelance.Web3",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\ServiciosFreelance.Web3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T23:00:45.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resultados.cshtml",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Principal\\Resultados.cshtml",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\Views\\Principal\\Resultados.cshtml",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Principal\\Resultados.cshtml",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\Views\\Principal\\Resultados.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T22:04:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FreelanceModel.cs",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Models\\FreelanceModel.cs",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\Models\\FreelanceModel.cs",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Models\\FreelanceModel.cs",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\Models\\FreelanceModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:53:07.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FreelanceService.cs",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Servicio\\FreelanceService.cs",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Servicio\\FreelanceService.cs",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Servicio\\FreelanceService.cs",
+              "RelativeToolTip": "ServiciosFreelance.Servicio\\FreelanceService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:40:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalcularServiciosFreelance.cshtml",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Principal\\CalcularServiciosFreelance.cshtml",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\Views\\Principal\\CalcularServiciosFreelance.cshtml",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Principal\\CalcularServiciosFreelance.cshtml",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\Views\\Principal\\CalcularServiciosFreelance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T19:30:28.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ServiciosLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Shared\\_ServiciosLayout.cshtml",
+              "RelativeDocumentMoniker": "ServiciosFreelance.Web3\\Views\\Shared\\_ServiciosLayout.cshtml",
+              "ToolTip": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\ServiciosFreelance.Web3\\ServiciosFreelance.Web3\\Views\\Shared\\_ServiciosLayout.cshtml",
+              "RelativeToolTip": "ServiciosFreelance.Web3\\Views\\Shared\\_ServiciosLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T19:29:45.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

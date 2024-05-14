@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RegistroDeVentas.Web3.props" />
+</Project>

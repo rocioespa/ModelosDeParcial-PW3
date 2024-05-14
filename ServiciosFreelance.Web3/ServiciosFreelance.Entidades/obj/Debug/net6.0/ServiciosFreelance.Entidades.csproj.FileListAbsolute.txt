@@ -1,0 +1,11 @@
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\bin\Debug\net6.0\ServiciosFreelance.Entidades.deps.json
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\bin\Debug\net6.0\ServiciosFreelance.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\bin\Debug\net6.0\ServiciosFreelance.Entidades.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ServiciosFreelance.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ServiciosFreelance.Entidades.AssemblyInfoInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ServiciosFreelance.Entidades.AssemblyInfo.cs
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ServiciosFreelance.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ServiciosFreelance.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\refint\ServiciosFreelance.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ServiciosFreelance.Entidades.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Entidades\obj\Debug\net6.0\ref\ServiciosFreelance.Entidades.dll

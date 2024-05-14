@@ -1,0 +1,11 @@
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\bin\Debug\net6.0\RegistroDeVentas.Entidades.deps.json
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\bin\Debug\net6.0\RegistroDeVentas.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\bin\Debug\net6.0\RegistroDeVentas.Entidades.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\RegistroDeVentas.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\RegistroDeVentas.Entidades.AssemblyInfoInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\RegistroDeVentas.Entidades.AssemblyInfo.cs
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\RegistroDeVentas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\RegistroDeVentas.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\refint\RegistroDeVentas.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\RegistroDeVentas.Entidades.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVentas.Entidades\obj\Debug\net6.0\ref\RegistroDeVentas.Entidades.dll

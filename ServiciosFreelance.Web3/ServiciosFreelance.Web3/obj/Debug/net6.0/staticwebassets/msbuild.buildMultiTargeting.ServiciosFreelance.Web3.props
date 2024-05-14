@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ServiciosFreelance.Web3.props" />
+</Project>

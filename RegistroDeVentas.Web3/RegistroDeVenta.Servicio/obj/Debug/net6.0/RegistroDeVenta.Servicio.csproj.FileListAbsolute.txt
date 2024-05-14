@@ -1,0 +1,15 @@
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\bin\Debug\net6.0\RegistroDeVenta.Servicio.deps.json
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\bin\Debug\net6.0\RegistroDeVenta.Servicio.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\bin\Debug\net6.0\RegistroDeVenta.Servicio.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\bin\Debug\net6.0\RegistroDeVentas.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\bin\Debug\net6.0\RegistroDeVentas.Entidades.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.csproj.AssemblyReference.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.AssemblyInfoInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.AssemblyInfo.cs
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\Registro.078A1492.Up2Date
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\refint\RegistroDeVenta.Servicio.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\RegistroDeVenta.Servicio.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\RegistroDeVentas.Web3\RegistroDeVenta.Servicio\obj\Debug\net6.0\ref\RegistroDeVenta.Servicio.dll

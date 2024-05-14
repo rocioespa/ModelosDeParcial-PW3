@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RegistroDeVenta.Servicio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RegistroDeVentas.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RegistroDeVenta.Servicio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegistroDeVenta.Servicio.dll": {}
+        }
+      },
+      "RegistroDeVentas.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RegistroDeVentas.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegistroDeVentas.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroDeVenta.Servicio/1.0.0": {
+      "type": "project",
+      "path": "../RegistroDeVenta.Servicio/RegistroDeVenta.Servicio.csproj",
+      "msbuildProject": "../RegistroDeVenta.Servicio/RegistroDeVenta.Servicio.csproj"
+    },
+    "RegistroDeVentas.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../RegistroDeVentas.Entidades/RegistroDeVentas.Entidades.csproj",
+      "msbuildProject": "../RegistroDeVentas.Entidades/RegistroDeVentas.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RegistroDeVenta.Servicio >= 1.0.0",
+      "RegistroDeVentas.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\roesp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVentas.Web3\\RegistroDeVentas.Web3.csproj",
+      "projectName": "RegistroDeVentas.Web3",
+      "projectPath": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVentas.Web3\\RegistroDeVentas.Web3.csproj",
+      "packagesPath": "C:\\Users\\roesp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVentas.Web3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\roesp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVenta.Servicio\\RegistroDeVenta.Servicio.csproj": {
+              "projectPath": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVenta.Servicio\\RegistroDeVenta.Servicio.csproj"
+            },
+            "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVentas.Entidades\\RegistroDeVentas.Entidades.csproj": {
+              "projectPath": "C:\\Users\\roesp\\source\\repos\\ModelosDeParcial-Practicos-PW3\\RegistroDeVentas.Web3\\RegistroDeVentas.Entidades\\RegistroDeVentas.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

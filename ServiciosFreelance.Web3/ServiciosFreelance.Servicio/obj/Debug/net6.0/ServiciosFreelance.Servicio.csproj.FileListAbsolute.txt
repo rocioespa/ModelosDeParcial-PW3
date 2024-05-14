@@ -1,0 +1,15 @@
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\bin\Debug\net6.0\ServiciosFreelance.Servicio.deps.json
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\bin\Debug\net6.0\ServiciosFreelance.Servicio.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\bin\Debug\net6.0\ServiciosFreelance.Servicio.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\bin\Debug\net6.0\ServiciosFreelance.Entidades.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\bin\Debug\net6.0\ServiciosFreelance.Entidades.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.csproj.AssemblyReference.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.AssemblyInfoInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.AssemblyInfo.cs
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\Servicio.94C29F73.Up2Date
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\refint\ServiciosFreelance.Servicio.dll
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ServiciosFreelance.Servicio.pdb
+C:\Users\roesp\source\repos\ModelosDeParcial-Practicos-PW3\ServiciosFreelance.Web3\ServiciosFreelance.Servicio\obj\Debug\net6.0\ref\ServiciosFreelance.Servicio.dll

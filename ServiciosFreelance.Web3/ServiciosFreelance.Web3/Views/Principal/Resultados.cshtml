@@ -1,0 +1,29 @@
+﻿@model List<FreelanceModel>
+
+<h1>Resultados</h1>
+<div>
+    <a href="/Principal/BienvenidosArtificiales">Pagina Principal</a>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre Persona</th>
+            <th>Horas Trabajadas</th>
+            <th>Valor Hora (AR$)</th>
+            <th>=</th>
+            <th>Resultado (Monto Total AR$)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var servicio in Model)
+        {
+            <tr>
+                <td>@servicio.NombrePersona</td>
+                <td>@servicio.HorasTrabajadas</td>
+                <td>@servicio.ValorHora</td>
+                <td>=</td>
+                <td>$ @(servicio.MontoTotal)</td>
+            </tr>
+        }
+    </tbody>
+</table>

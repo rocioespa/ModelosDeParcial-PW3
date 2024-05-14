@@ -1,0 +1,29 @@
+﻿@model FreelanceModel
+
+<h1>Calcular Servicios Freelance</h1>
+<form action="/Principal/CalcularServiciosFreelance" method="post">
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombrePersona)
+        @Html.TextBoxFor(model => model.NombrePersona, new { @class = "form-control", type = "text" })
+        @Html.ValidationMessageFor(model => model.NombrePersona, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.HorasTrabajadas)
+        @Html.TextBoxFor(model => model.HorasTrabajadas, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.HorasTrabajadas, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ValorHora)
+        @Html.TextBoxFor(model => model.ValorHora, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.ValorHora, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Calcular</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

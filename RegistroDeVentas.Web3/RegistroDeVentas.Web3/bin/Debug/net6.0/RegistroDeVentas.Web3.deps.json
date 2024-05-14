@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegistroDeVentas.Web3/1.0.0": {
+        "dependencies": {
+          "RegistroDeVenta.Servicio": "1.0.0",
+          "RegistroDeVentas.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "RegistroDeVentas.Web3.dll": {}
+        }
+      },
+      "RegistroDeVenta.Servicio/1.0.0": {
+        "dependencies": {
+          "RegistroDeVentas.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "RegistroDeVenta.Servicio.dll": {}
+        }
+      },
+      "RegistroDeVentas.Entidades/1.0.0": {
+        "runtime": {
+          "RegistroDeVentas.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroDeVentas.Web3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistroDeVenta.Servicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistroDeVentas.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

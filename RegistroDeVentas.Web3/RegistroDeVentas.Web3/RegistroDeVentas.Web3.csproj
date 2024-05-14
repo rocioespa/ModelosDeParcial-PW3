@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RegistroDeVenta.Servicio\RegistroDeVenta.Servicio.csproj" />
+    <ProjectReference Include="..\RegistroDeVentas.Entidades\RegistroDeVentas.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
