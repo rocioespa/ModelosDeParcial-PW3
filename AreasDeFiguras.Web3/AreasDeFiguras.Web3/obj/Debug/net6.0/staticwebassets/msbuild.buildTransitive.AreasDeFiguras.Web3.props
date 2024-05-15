@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AreasDeFiguras.Web3.props" />
+</Project>

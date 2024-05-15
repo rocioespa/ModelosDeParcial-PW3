@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\bin\Debug\net6.0\AreasDeFiguras.Entidades.deps.json
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\bin\Debug\net6.0\AreasDeFiguras.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\bin\Debug\net6.0\AreasDeFiguras.Entidades.pdb
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.AssemblyInfo.cs
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.sourcelink.json
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\refint\AreasDeFiguras.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\AreasDeFiguras.Entidades.pdb
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Entidades\obj\Debug\net6.0\ref\AreasDeFiguras.Entidades.dll

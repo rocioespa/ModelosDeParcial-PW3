@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AreasDeFiguras.Web3/1.0.0": {
+        "dependencies": {
+          "AreasDeFiguras.Entidades": "1.0.0",
+          "AreasDeFiguras.Servicios": "1.0.0"
+        },
+        "runtime": {
+          "AreasDeFiguras.Web3.dll": {}
+        }
+      },
+      "AreasDeFiguras.Entidades/1.0.0": {
+        "runtime": {
+          "AreasDeFiguras.Entidades.dll": {}
+        }
+      },
+      "AreasDeFiguras.Servicios/1.0.0": {
+        "dependencies": {
+          "AreasDeFiguras.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "AreasDeFiguras.Servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreasDeFiguras.Web3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreasDeFiguras.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreasDeFiguras.Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

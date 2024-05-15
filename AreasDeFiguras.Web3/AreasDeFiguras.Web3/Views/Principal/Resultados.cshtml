@@ -1,0 +1,29 @@
+﻿@model List<RectanguloModel>
+
+<h1>Resultados</h1>
+<div>
+    <a href="/Principal/Bienvenido">Pagina Principal</a>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Calculo</th>
+            <th>Base</th>
+            <th>Altura</th>
+            <th>=</th>
+            <th>Resultado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var rectangulo in Model)
+        {
+            <tr>
+                <td>Calculo @rectangulo.Id</td>
+                <td>@rectangulo.baseFigura</td>
+                <td>@rectangulo.alturaFigura</td>
+                <td>=</td>
+                <td>@rectangulo.areaFigura</td>
+            </tr>
+        }
+    </tbody>
+</table>

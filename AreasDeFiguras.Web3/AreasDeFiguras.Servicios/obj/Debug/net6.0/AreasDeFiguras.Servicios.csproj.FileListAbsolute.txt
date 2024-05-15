@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\bin\Debug\net6.0\AreasDeFiguras.Servicios.deps.json
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\bin\Debug\net6.0\AreasDeFiguras.Servicios.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\bin\Debug\net6.0\AreasDeFiguras.Servicios.pdb
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\bin\Debug\net6.0\AreasDeFiguras.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\bin\Debug\net6.0\AreasDeFiguras.Entidades.pdb
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.AssemblyInfo.cs
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.sourcelink.json
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.csproj.CopyComplete
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\refint\AreasDeFiguras.Servicios.dll
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\AreasDeFiguras.Servicios.pdb
+C:\Users\User\source\repos\PrograWebIII\ModelosDeParcial-Practicos-PW3\ModelosDeParcial-Practicos-PW3\AreasDeFiguras.Web3\AreasDeFiguras.Servicios\obj\Debug\net6.0\ref\AreasDeFiguras.Servicios.dll

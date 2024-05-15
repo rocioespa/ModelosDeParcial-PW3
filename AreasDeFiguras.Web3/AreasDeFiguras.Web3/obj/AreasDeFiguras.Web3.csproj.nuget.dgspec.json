@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj",
+        "projectName": "AreasDeFiguras.Entidades",
+        "projectPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Servicios\\AreasDeFiguras.Servicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Servicios\\AreasDeFiguras.Servicios.csproj",
+        "projectName": "AreasDeFiguras.Servicios",
+        "projectPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Servicios\\AreasDeFiguras.Servicios.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Servicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3.csproj",
+        "projectName": "AreasDeFiguras.Web3",
+        "projectPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Web3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Entidades\\AreasDeFiguras.Entidades.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Servicios\\AreasDeFiguras.Servicios.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\PrograWebIII\\ModelosDeParcial-Practicos-PW3\\ModelosDeParcial-Practicos-PW3\\AreasDeFiguras.Web3\\AreasDeFiguras.Servicios\\AreasDeFiguras.Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
