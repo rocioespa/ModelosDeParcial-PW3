@@ -1,0 +1,30 @@
+﻿@model List<BarcoModel>
+
+<h1>Resultados</h1>
+<div>
+    <a href="/Barco/Registrar">Registrar Venta</a>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#IdBarco</th>
+            <th>Nombre</th>
+            <th>Antiguedad</th>
+            <th>Tripulacion Maxima</th>
+            <th>Tasa</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var barco in Model)
+        {
+            <tr>
+                <td>@barco.IdBarco</td>
+                <td>@barco.Nombre</td>
+                <td>@barco.Antiguedad</td>
+                <td>@barco.TripulacionMaxima</td>
+                <td>$ @barco.Tasa</td>
+            </tr>
+        }
+    </tbody>
+</table>
