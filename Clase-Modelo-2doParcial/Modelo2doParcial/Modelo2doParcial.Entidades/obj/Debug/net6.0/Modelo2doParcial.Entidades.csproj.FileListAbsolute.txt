@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\bin\Debug\net6.0\Modelo2doParcial.Entidades.deps.json
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\bin\Debug\net6.0\Modelo2doParcial.Entidades.runtimeconfig.json
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\bin\Debug\net6.0\Modelo2doParcial.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\bin\Debug\net6.0\Modelo2doParcial.Entidades.pdb
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.AssemblyInfo.cs
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.sourcelink.json
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\refint\Modelo2doParcial.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.pdb
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\Modelo2doParcial.Entidades.genruntimeconfig.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Entidades\obj\Debug\net6.0\ref\Modelo2doParcial.Entidades.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\bin\Debug\net6.0\Modelo2doParcial.Logica.deps.json
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\bin\Debug\net6.0\Modelo2doParcial.Logica.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\bin\Debug\net6.0\Modelo2doParcial.Logica.pdb
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\bin\Debug\net6.0\Modelo2doParcial.Entidades.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\bin\Debug\net6.0\Modelo2doParcial.Entidades.pdb
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.AssemblyInfo.cs
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.sourcelink.json
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.csproj.CopyComplete
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\refint\Modelo2doParcial.Logica.dll
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\Modelo2doParcial.Logica.pdb
+C:\Users\User\source\repos\PrograWebIII\2024-1C\Clase-Modelo-2doParcial\Modelo2doParcial\Modelo2doParcial.Logica\obj\Debug\net6.0\ref\Modelo2doParcial.Logica.dll
