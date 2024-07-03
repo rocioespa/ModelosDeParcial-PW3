@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\bin\Debug\net6.0\Competidores.Servicios.deps.json
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\bin\Debug\net6.0\Competidores.Servicios.runtimeconfig.json
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\bin\Debug\net6.0\Competidores.Servicios.dll
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\bin\Debug\net6.0\Competidores.Servicios.pdb
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.AssemblyInfo.cs
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.sourcelink.json
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.dll
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\refint\Competidores.Servicios.dll
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.pdb
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\Competidores.Servicios.genruntimeconfig.cache
+C:\Users\User\Documents\Facultad\Programacion-Web-III\Modelos2Parcial\ModelosDeParcial-PW3\2doParcialPracticoWeb3\Competidores.Web\Competidores.Servicios\obj\Debug\net6.0\ref\Competidores.Servicios.dll

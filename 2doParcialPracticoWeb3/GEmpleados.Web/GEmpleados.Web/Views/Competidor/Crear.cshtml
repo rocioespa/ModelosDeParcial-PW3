@@ -1,0 +1,29 @@
+﻿@using GCompetidores.Web.EFF
+@model GCompetidores.Web.EFF.Competidor
+
+@{
+    ViewBag.Title = "Crear";
+}
+
+<h2>Crear</h2>
+
+<form action="/Competidor/Crear" method="post">
+
+    <div class="form-group">
+        <label for="NombreCompetidor">Nombre Competidor</label>
+        <input type="text" class="form-control" id="NombreCompetidor" name="NombreCompetidor" placeholder="Nombre Competidor">
+    </div>
+
+    <div>
+        Deporte:
+        <select name="idDeporte">
+            @foreach (Deporte deporte in ViewBag.Deportes)
+            {
+                <option value="@deporte.IdDeporte">@deporte.NombreDeporte</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Agregar Competidor</button>
+
+</form>

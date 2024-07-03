@@ -1,0 +1,60 @@
+﻿@using GCompetidores.Web.EFF
+@model List<GCompetidores.Web.EFF.Competidor> 
+
+@{
+    ViewBag.Title = "Competidores";
+}
+
+
+<h2>Competidores</h2>
+
+<form action="/Competidor/Index" method="post">
+    <div>
+        Deporte:
+        <select name="idDeporte">
+            <option value="">Todas</option>
+            @foreach (Deporte deporte in ViewBag.Deportes)
+            {
+                if (ViewBag.IdDeporteEligido == deporte.IdDeporte)
+                {
+                    <option selected="selected" value="@deporte.IdDeporte">@deporte.NombreDeporte</option>
+                }
+                else
+                {
+                    <option value="@deporte.IdDeporte">@deporte.NombreDeporte</option>
+                }
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Filtrar</button>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model[0].IdCompetidor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model[0].NombreCompetidor)
+            </th>
+            <th>
+                Deporte
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCompetidor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCompetidor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdDeporteNavigation.NombreDeporte)
+                </td>
+            </tr>
+        }
+    </table>
+</form>
+
